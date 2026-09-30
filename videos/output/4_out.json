@@ -1,0 +1,155 @@
+{
+  "video": "4.mp4",
+  "width": 720,
+  "height": 1280,
+  "fps": 30.0,
+  "frames": 104,
+  "frame_numbering": "0-based",
+  "ball_detections": 16,
+  "batter_stumps": [
+    268.1,
+    722.8,
+    378.9,
+    1041.5
+  ],
+  "lane_polygon": [
+    [
+      252.6,
+      1279.0
+    ],
+    [
+      394.4,
+      1279.0
+    ],
+    [
+      367.8,
+      1041.5
+    ],
+    [
+      279.2,
+      1041.5
+    ]
+  ],
+  "ball_track": [
+    {
+      "frame": 27,
+      "x": 44.6,
+      "y": 160.6,
+      "source": "detected"
+    },
+    {
+      "frame": 28,
+      "x": 83.4,
+      "y": 201.0,
+      "source": "detected"
+    },
+    {
+      "frame": 29,
+      "x": 115.3,
+      "y": 236.4,
+      "source": "detected"
+    },
+    {
+      "frame": 30,
+      "x": 139.2,
+      "y": 266.8,
+      "source": "detected"
+    },
+    {
+      "frame": 31,
+      "x": 159.2,
+      "y": 293.3,
+      "source": "interpolated"
+    },
+    {
+      "frame": 32,
+      "x": 176.3,
+      "y": 317.3,
+      "source": "detected"
+    },
+    {
+      "frame": 33,
+      "x": 191.0,
+      "y": 340.2,
+      "source": "detected"
+    },
+    {
+      "frame": 34,
+      "x": 203.3,
+      "y": 361.1,
+      "source": "interpolated"
+    },
+    {
+      "frame": 35,
+      "x": 215.6,
+      "y": 381.0,
+      "source": "interpolated"
+    },
+    {
+      "frame": 36,
+      "x": 227.0,
+      "y": 401.4,
+      "source": "detected"
+    },
+    {
+      "frame": 37,
+      "x": 235.8,
+      "y": 420.4,
+      "source": "detected"
+    },
+    {
+      "frame": 38,
+      "x": 242.5,
+      "y": 437.5,
+      "source": "interpolated"
+    },
+    {
+      "frame": 39,
+      "x": 249.0,
+      "y": 453.3,
+      "source": "interpolated"
+    },
+    {
+      "frame": 40,
+      "x": 255.6,
+      "y": 469.5,
+      "source": "interpolated"
+    },
+    {
+      "frame": 41,
+      "x": 262.2,
+      "y": 485.7,
+      "source": "interpolated"
+    },
+    {
+      "frame": 42,
+      "x": 268.8,
+      "y": 501.9,
+      "source": "interpolated"
+    },
+    {
+      "frame": 43,
+      "x": 275.3,
+      "y": 518.0,
+      "source": "detected"
+    }
+  ],
+  "bounce": null,
+  "impact": {
+    "frame": 43,
+    "x": 275.3,
+    "y": 518.0
+  },
+  "pitching": {
+    "label": "N/A (unclear)",
+    "kind": "na"
+  },
+  "track_points_detected": 9,
+  "track_points_interpolated": 8,
+  "mean_ball_confidence": 0.533,
+  "status": "low_confidence",
+  "warnings": [
+    "track_ends_at_possible_bounce",
+    "few_ball_detections_in_track"
+  ]
+}

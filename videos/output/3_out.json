@@ -1,0 +1,42 @@
+{
+  "video": "3.mp4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "frames": 41,
+  "frame_numbering": "0-based",
+  "ball_detections": 17,
+  "batter_stumps": [
+    528.2,
+    1088.4,
+    558.8,
+    1163.1
+  ],
+  "lane_polygon": [
+    [
+      524.0,
+      1919.0
+    ],
+    [
+      563.1,
+      1919.0
+    ],
+    [
+      555.7,
+      1163.1
+    ],
+    [
+      531.3,
+      1163.1
+    ]
+  ],
+  "status": "ball_not_found",
+  "ball_track": [],
+  "bounce": null,
+  "impact": null,
+  "pitching": {
+    "label": "N/A",
+    "kind": "na"
+  },
+  "warnings": []
+}

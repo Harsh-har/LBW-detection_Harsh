@@ -1,0 +1,104 @@
+{
+  "video": "7.mp4",
+  "width": 478,
+  "height": 850,
+  "fps": 30.0,
+  "frames": 30,
+  "frame_numbering": "0-based",
+  "ball_detections": 14,
+  "batter_stumps": [
+    181.1,
+    450.1,
+    199.0,
+    507.7
+  ],
+  "lane_polygon": [
+    [
+      178.6,
+      849.0
+    ],
+    [
+      201.5,
+      849.0
+    ],
+    [
+      197.2,
+      507.7
+    ],
+    [
+      182.9,
+      507.7
+    ]
+  ],
+  "ball_track": [
+    {
+      "frame": 9,
+      "x": 178.9,
+      "y": 488.0,
+      "source": "detected"
+    },
+    {
+      "frame": 10,
+      "x": 176.8,
+      "y": 496.8,
+      "source": "detected"
+    },
+    {
+      "frame": 11,
+      "x": 174.6,
+      "y": 506.0,
+      "source": "detected"
+    },
+    {
+      "frame": 12,
+      "x": 172.3,
+      "y": 515.6,
+      "source": "detected"
+    },
+    {
+      "frame": 13,
+      "x": 170.2,
+      "y": 525.8,
+      "source": "detected"
+    },
+    {
+      "frame": 14,
+      "x": 168.5,
+      "y": 536.8,
+      "source": "detected"
+    },
+    {
+      "frame": 15,
+      "x": 168.3,
+      "y": 525.6,
+      "source": "detected"
+    },
+    {
+      "frame": 16,
+      "x": 169.7,
+      "y": 508.6,
+      "source": "detected"
+    }
+  ],
+  "bounce": {
+    "frame": 14,
+    "x": 168.5,
+    "y": 536.8
+  },
+  "impact": {
+    "frame": 16,
+    "x": 169.7,
+    "y": 508.6
+  },
+  "pitching": {
+    "label": "Outside",
+    "kind": "out"
+  },
+  "track_points_detected": 8,
+  "track_points_interpolated": 0,
+  "mean_ball_confidence": 0.691,
+  "status": "low_confidence",
+  "warnings": [
+    "few_ball_detections_in_track"
+  ]
+}

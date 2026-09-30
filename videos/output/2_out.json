@@ -1,0 +1,222 @@
+{
+  "video": "2.mp4",
+  "width": 478,
+  "height": 850,
+  "fps": 30.0,
+  "frames": 49,
+  "frame_numbering": "0-based",
+  "ball_detections": 21,
+  "batter_stumps": [
+    239.5,
+    210.0,
+    272.6,
+    293.8
+  ],
+  "lane_polygon": [
+    [
+      234.8,
+      849.0
+    ],
+    [
+      277.3,
+      849.0
+    ],
+    [
+      269.3,
+      293.8
+    ],
+    [
+      242.8,
+      293.8
+    ]
+  ],
+  "ball_track": [
+    {
+      "frame": 5,
+      "x": 98.3,
+      "y": 205.3,
+      "source": "detected"
+    },
+    {
+      "frame": 6,
+      "x": 113.0,
+      "y": 193.7,
+      "source": "detected"
+    },
+    {
+      "frame": 7,
+      "x": 126.7,
+      "y": 185.0,
+      "source": "detected"
+    },
+    {
+      "frame": 8,
+      "x": 139.4,
+      "y": 178.9,
+      "source": "detected"
+    },
+    {
+      "frame": 9,
+      "x": 151.1,
+      "y": 175.6,
+      "source": "detected"
+    },
+    {
+      "frame": 10,
+      "x": 162.2,
+      "y": 175.2,
+      "source": "detected"
+    },
+    {
+      "frame": 11,
+      "x": 173.0,
+      "y": 176.8,
+      "source": "detected"
+    },
+    {
+      "frame": 12,
+      "x": 183.2,
+      "y": 181.0,
+      "source": "detected"
+    },
+    {
+      "frame": 13,
+      "x": 192.6,
+      "y": 186.8,
+      "source": "detected"
+    },
+    {
+      "frame": 14,
+      "x": 201.7,
+      "y": 194.1,
+      "source": "detected"
+    },
+    {
+      "frame": 15,
+      "x": 210.7,
+      "y": 202.8,
+      "source": "detected"
+    },
+    {
+      "frame": 16,
+      "x": 219.0,
+      "y": 213.2,
+      "source": "detected"
+    },
+    {
+      "frame": 17,
+      "x": 226.3,
+      "y": 224.5,
+      "source": "detected"
+    },
+    {
+      "frame": 18,
+      "x": 232.9,
+      "y": 237.0,
+      "source": "detected"
+    },
+    {
+      "frame": 19,
+      "x": 239.3,
+      "y": 251.0,
+      "source": "detected"
+    },
+    {
+      "frame": 20,
+      "x": 245.8,
+      "y": 266.4,
+      "source": "interpolated"
+    },
+    {
+      "frame": 21,
+      "x": 252.4,
+      "y": 282.3,
+      "source": "interpolated"
+    },
+    {
+      "frame": 22,
+      "x": 259.0,
+      "y": 298.1,
+      "source": "interpolated"
+    },
+    {
+      "frame": 23,
+      "x": 265.7,
+      "y": 314.3,
+      "source": "interpolated"
+    },
+    {
+      "frame": 24,
+      "x": 271.6,
+      "y": 328.2,
+      "source": "detected"
+    },
+    {
+      "frame": 25,
+      "x": 276.7,
+      "y": 340.1,
+      "source": "detected"
+    },
+    {
+      "frame": 26,
+      "x": 268.2,
+      "y": 325.3,
+      "source": "interpolated"
+    },
+    {
+      "frame": 27,
+      "x": 259.7,
+      "y": 310.5,
+      "source": "interpolated"
+    },
+    {
+      "frame": 28,
+      "x": 251.2,
+      "y": 295.7,
+      "source": "interpolated"
+    },
+    {
+      "frame": 29,
+      "x": 242.7,
+      "y": 281.0,
+      "source": "interpolated"
+    },
+    {
+      "frame": 30,
+      "x": 235.8,
+      "y": 265.0,
+      "source": "interpolated"
+    },
+    {
+      "frame": 31,
+      "x": 221.0,
+      "y": 254.9,
+      "source": "detected"
+    },
+    {
+      "frame": 32,
+      "x": 201.0,
+      "y": 248.7,
+      "source": "detected"
+    }
+  ],
+  "bounce": {
+    "frame": 25,
+    "x": 276.7,
+    "y": 340.1
+  },
+  "impact": {
+    "frame": 32,
+    "x": 201.0,
+    "y": 248.7
+  },
+  "pitching": {
+    "label": "Outside",
+    "kind": "out"
+  },
+  "track_points_detected": 19,
+  "track_points_interpolated": 9,
+  "mean_ball_confidence": 0.771,
+  "status": "ok",
+  "warnings": []
+}
